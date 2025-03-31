@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akash972004
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on intresting projects on different domains.
 - 📫 How to reach me -email: akashjdevu@gmail.com
 - 😄 Pronouns: Akash J
 
