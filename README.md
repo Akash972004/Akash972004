@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akash972004
-- 👀 I’m interested in web development 
+- 👀 I’m interested in web development | software development | full stack development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on intresting projects on different domains.
 - 📫 How to reach me -email: akashjdevu@gmail.com
