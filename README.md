@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">Aspiring Full Stack Developer | React • Java • Spring Boot</h3>
+<h3 align="center">Aspiring Full Stack Developer | React • Java • Nodejs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akash972004&label=Profile%20Views&color=0e75b6&style=flat" alt="Akash972004" />
