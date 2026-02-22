@@ -21,7 +21,7 @@
 - ⚛️ Strong in **React, JavaScript, and Java**
 - 🧠 Currently learning **Advanced Backend & System Design**
 - 🎯 Goal: Become a **Professional Software Engineer**
-- 📫 Reach me: **akashjdevu@gmail.com**
+- 📫 Reach me: **akashj1ga22is007@gmail.com**
 
 ---
 
